@@ -1,3 +1,4 @@
  iam lrean basic git and github
 i was learn git status and add
 learn git branch and commit
+learn fiexd error into github 
